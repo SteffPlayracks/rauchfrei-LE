@@ -1,0 +1,13 @@
+{
+  "name": "RAUCHFREI — Für Lillo & Edda",
+  "short_name": "Rauchfrei ♥",
+  "description": "Dein persönlicher Weg in ein rauchfreies Leben.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0a10",
+  "theme_color": "#0b0a10",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
